@@ -4,7 +4,7 @@
   <test thread-count="1" name="Test">
     <classes>
       
-      <class name="TestNGSession.DependsOnMethod"/>
+      <class name="TestNGSession.LoginTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
